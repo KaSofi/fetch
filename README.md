@@ -1,7 +1,10 @@
 
 Material-UI
+
 React-Fetch-API
+
 useEffect()
+
 
 ![12](https://github.com/KaSofi/fetch/assets/103929930/5826f438-f6dd-4aec-9321-15c3925a0ec0)
 
